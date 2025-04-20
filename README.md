@@ -1,6 +1,6 @@
 # Apnagram - Instagram Clone (MERN Stack)
 
-![Apnagram Screenshot](![image](https://github.com/user-attachments/assets/247a9cda-88ab-48d4-aa12-39a1e054fea8))
+![Apnagram Screenshot](https://github.com/vaibhav-afk/project-demo/blob/main/ss.png?raw=true)
 
 A full-stack social media application inspired by Instagram, built with modern web technologies. Implements core features like authentication, image sharing, and user interactions.
 
