@@ -4,7 +4,7 @@
 
 A full-stack social media application inspired by Instagram, built with modern web technologies. Implements core features like authentication, image sharing, and user interactions.
 
-🔗 [Live Demo](https://apnagram.netlify.app/) | <!---🎥 [Video Walkthrough](https://loom.com/share/...) -->
+🔗 [Live Demo](https://apnagram.netlify.app/) <!---|🎥 [Video Walkthrough](https://loom.com/share/...) -->
 
 ## 🛠 Tech Stack & Architecture
 
